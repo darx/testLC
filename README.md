@@ -1,6 +1,3 @@
 # testLC
 
-asasdasd
-sasad
-sds
-s
+ppp
